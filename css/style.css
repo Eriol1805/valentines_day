@@ -92,7 +92,7 @@ a {
 
 /* Mainheader */
 #mainheader {
-	background: url('../img/showcase.jpg');
+	background: url('img/showcase.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -101,7 +101,7 @@ a {
 
 /* Mainheader No */
 #mainheader-no {
-	background: url('../img/no.jpg');
+	background: url('img/no.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
