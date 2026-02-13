@@ -14,6 +14,19 @@
 
 /* Mainheader */
 #mainheader {
+	background: url('../img/showcase.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+}
+
+/* Mainheader No */
+#mainheader-no {
+	background: url('../img/no.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 	height: 100%;
 }
 
